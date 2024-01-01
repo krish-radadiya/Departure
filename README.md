@@ -39,5 +39,5 @@ has been translated, "Departure" is a multi-language app. It provides support fo
 languages, enabling users to read and study the Bhagvat Geeta in their preferred language,
 making the app inclusive and accessible to a wider audience.
 
-=================================screen shots======================================
+========================screen shots========================
 
