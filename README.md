@@ -45,11 +45,11 @@ making the app inclusive and accessible to a wider audience.
 <img src="https://github.com/krish-radadiya/Departure/assets/113992828/a9b43819-a12a-4854-b33a-27c5717deb1b" width="250">
 <img src="https://github.com/krish-radadiya/Departure/assets/113992828/c704e14d-5906-4362-9528-6856b2bd9a2a" width="250">
 <img src="https://github.com/krish-radadiya/Departure/assets/113992828/04464e67-5355-4836-81db-7153239b8871" width="250">
-<img src="https://github.com/krish-radadiya/Departure/assets/113992828/e5a022c3-bde2-4df4-a297-ad2b9c535740" width="250">
-<img src="https://github.com/krish-radadiya/Departure/assets/113992828/9137a089-6b50-4372-9b3c-d4e7d7440d79" width="250">
-<img src="https://github.com/krish-radadiya/Departure/assets/113992828/423a02c3-b0fc-44b2-9a6f-99c93a24ecb7" width="250">
-<img src="https://github.com/krish-radadiya/Departure/assets/113992828/b7ddda2e-d954-4279-81a4-0592c7f3668d" width="250">
-
+<img src="https://github.com/krish-radadiya/Departure/assets/113992828/a329abfa-f9cd-438d-b0e1-a72285163a29" width="250">
+<img src="https://github.com/krish-radadiya/Departure/assets/113992828/f656f872-21fb-4eca-871d-b5307dad1efc" width="250">
+<img src="https://github.com/krish-radadiya/Departure/assets/113992828/593f3357-1127-4f44-8600-4b114944f6e1" width="250">
+<img src="https://github.com/krish-radadiya/Departure/assets/113992828/0ed2085c-de37-4f96-b13a-6a407b2fddde" width="250">
+<img src="https://github.com/krish-radadiya/Departure/assets/113992828/35347736-c42b-4a8a-8ef7-149049c481c0" width="250">
 
 
 
