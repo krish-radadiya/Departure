@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:introduction_screen/introduction_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -66,24 +67,51 @@ class Intro_screen extends StatelessWidget {
                 height: 300,
                 decoration: const BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage("assets/Group 8.png"),
+                    //void main void main void main void main void maic
+                    image: AssetImage(
+                      "assets/Group 8.png",
+                    ),
                   ),
                 ),
               ),
             ),
           ],
-          done: const Text("done"),
+          done: Text(
+            "done",
+            style: GoogleFonts.abrilFatface(
+              color: Colors.black,
+            ),
+            // style: TextStyle(
+            //   color: Colors.black,
+            // ),
+          ),
           onDone: () async {
             SharedPreferences preferences =
                 await SharedPreferences.getInstance();
             preferences.setBool('IsIntroVisited', true);
-            Navigator.pushReplacementNamed(context, "home");
+            Navigator.pushReplacementNamed(
+              context,
+              "home",
+            );
           },
-          next: const Text("next"),
+          next: const Text(
+            "next",
+            style: TextStyle(
+              color: Colors.black,
+            ),
+          ),
           showNextButton: true,
-          skip: const Text("skip"),
+          skip: const Text(
+            "skip",
+            style: TextStyle(
+              color: Colors.black,
+            ),
+          ),
           onSkip: () {
-            Navigator.pushReplacementNamed(context, "homescreen");
+            Navigator.pushReplacementNamed(
+              context,
+              "homescreen",
+            );
           },
           showSkipButton: true,
         ),
